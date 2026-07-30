@@ -183,11 +183,11 @@ while a>2:
     print(a)
     a=a-1
     if a==7:
-        pass'''
+        pass
 for i in range(25):
     if i==20:
         pass
-    print(i)
+    print(i)'''
     
 
         
